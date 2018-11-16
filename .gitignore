@@ -1,3 +1,7 @@
+smt-solver-mac/
+default.smt
+smtplan2018
+
 *.annot
 *.cmo
 *.cma
